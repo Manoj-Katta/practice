@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: "poppins",sans-serif;
+}
+
+form{
+    text-align: center;
+    margin-left: 40%;
+    margin-top: 5%;
+    height: 300px;
+    width: 280px;
+    border: 1px solid black;
+}
+
+h1{
+    color: lightblue;
+}
+
+button{
+    border-radius: 5%;
+    height:50px;
+    width: 80px;
+    background-color: red;
+}
